@@ -1,0 +1,16 @@
+{
+
+    "link": "https://testing.mywwsbm.com/provider",
+
+    "clientadmin_username": "xpropellerwws@gmail.com",
+    "clientadmin_password":"Test@123",
+
+    "clientreportmanager_username": "wwsxpropellerr@gmail.com",
+    "clientreportmanager_password": "Test@123",
+
+    "clientreportviewer_username": " ",
+    "clientreportviewer_password": " ",
+
+    "invalid_clientadmin_username": "xpropellerwws@gmail.com",
+    "invalid_clientadmin_password":"Tes1t@123"
+}
